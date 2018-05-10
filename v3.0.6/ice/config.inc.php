@@ -21,7 +21,7 @@ $tablecolor = "#ffffff";
 $tablewidth = "850";
 $tablestyle = "<table bgcolor=\"$tablecolor\" width=\"860\">";
 // site web
-$url = "http://www.crhst.cnrs.fr/i-corpus/lamarck/ice";
+$url = "http://...";
 $site_title = "Titre";
 $head_title = "Titre d'entete";
 $year = "2004";
