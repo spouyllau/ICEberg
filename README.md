@@ -1,2 +1,2 @@
 # ICEberg
-Web application for SSH corpora and documents collections
+Web application (PHP4) for SSH corpora and documents collections
