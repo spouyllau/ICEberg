@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE BOOKS SYSTEM "../../ice/dtd/TypeOfBook.dtd">
+<BOOKS>
+
+<book>
+	<id>1</id>
+	<title short="Mémoires de physique et d'histoire naturelle" name="Mémoires de physique et d'histoire naturelle, établis sur les bases de raisonnement indépendantes de toute théorie ; avec l'explication de nouvelles considérations sur la cause générale des dissolutions ; sur la matière de feu ; sur la couleur des corps ; sur la formation des composés ; sur l'origine des minéraux, et sur l'organisation des corps vivans, lus à la première classe de l'Institut national dans ses séances ordinaires, suivis de Discours prononcé à la Société Philomatique le 23 floréal an V" collection="Memoires_physique"/>
+	<typeOfBook id="1"/>
+	<bookDate>1797</bookDate>
+	<author name="J. B." surname="Lamarck"/>
+	<editor>Chez l'Auteur</editor>
+	<placeEditor>Paris</placeEditor>
+	<pagesNumber>412 + 8 p.</pagesNumber>
+	<coverImage/>
+	<volNumber>1</volNumber>
+	<bookObservations>Nous avons respecté l'orthographe du texte original.</bookObservations>
+	<numerisation person1="marcel" person2="albert" person3="ginette" person4=""/>
+	<format doc="Memoires_physique.doc" pdf="Memoires_physique.pdf"/>
+	<bookOrder>09</bookOrder>
+</book>
+
+<book>
+	<id>3</id>
+	<title short="Flore françoise" name="Flore françoise, ou description succinte de toutes les plantes qui croissent naturellement en France, disposée selon une nouvelle méthode d'analyse à laquelle on a joint la citation de leurs vertus les moins équivoques en médecine, et de leur utilité dans les arts"/>
+	<typeOfBook id="1"/>
+	<bookDate>1779</bookDate>
+	<author name="M. le Chevalier" surname="De Lamarck"/>
+	<editor>Imprimerie Royale</editor>
+	<placeEditor>Paris</placeEditor>
+	<pagesNumber/>
+	<coverImage/>
+	<volNumber>3</volNumber>
+	<bookObservations>Seul le Discours préliminaire (volume 1)  est disponible en mode texte. Nous avons respecté l'orthographe du texte original.</bookObservations>
+	<numerisation person1="marcel" person2="albert" person3="ginette" person4=""/>
+	<format doc="Flore_Francoise_discours_preliminaire.doc" pdf="FloreFrancoise_discourspreliminaire.pdf"/>
+	<bookOrder>02</bookOrder>
+</book>
+
+<book>
+	<id>12</id>
+	<title short="Mémoire sur la matière du feu" name="Mémoire sur la matière du feu considérée comme instrument chimique dans les analyses" collection="Journal de Physique"/>
+	<typeOfBook id="3"/>
+	<bookDate>1799</bookDate>
+	<author surname="Lamarck" name="J.B."/>
+	<editor/>
+	<placeEditor/>
+	<pagesNumber>n°48, 345-361</pagesNumber>
+	<coverImage/>
+	<volNumber>1</volNumber>
+	<bookObservations>Nous avons respecté l'orthographe du texte original.</bookObservations>
+	<numerisation person1="marcel" person2="abel" person3="ginette" person4="pouet"/>
+	<format doc="Matiere_du_ feu.doc" pdf="Matiere_du_feu.pdf"/>
+	<bookOrder>15</bookOrder>
+</book>
+
+<book>
+	<id>13</id>
+	<title short="Mémoires de physique et d'histoire naturelle" name="Mémoires de physique et d'histoire naturelle, établis sur les bases de raisonnement indépendantes de toute théorie ; avec l'explication de nouvelles considérations sur la cause générale des dissolutions ; sur la matière de feu ; sur la couleur des corps ; sur la formation des composés ; sur l'origine des minéraux, et sur l'organisation des corps vivans, lus à la première classe de l'Institut national dans ses séances ordinaires, suivis de Discours prononcé à la Société Philomatique le 23 floréal an V" collection="Memoires_physique"/>
+	<typeOfBook id="1"/>
+	<bookDate>1797</bookDate>
+	<author name="J. B." surname="Lamarck"/>
+	<editor>Chez l'Auteur</editor>
+	<placeEditor>Paris</placeEditor>
+	<pagesNumber>412 + 8 p.</pagesNumber>
+	<coverImage/>
+	<volNumber>1</volNumber>
+	<bookObservations>Nous avons respecté l'orthographe du texte original.</bookObservations>
+	<numerisation person1="marcel" person2="albert" person3="ginette" person4=""/>
+	<format doc="Memoires_physique.doc" pdf="Memoires_physique.pdf"/>
+	<bookOrder>09</bookOrder>
+</book>
+
+<book>
+	<id>15</id>
+	<title short="Flore françoise" name="Flore françoise, ou description succinte de toutes les plantes qui croissent naturellement en France, disposée selon une nouvelle méthode d'analyse à laquelle on a joint la citation de leurs vertus les moins équivoques en médecine, et de leur utilité dans les arts"/>
+	<typeOfBook id="1"/>
+	<bookDate>1779</bookDate>
+	<author name="M. le Chevalier" surname="De Lamarck"/>
+	<editor>Imprimerie Royale</editor>
+	<placeEditor>Paris</placeEditor>
+	<pagesNumber/>
+	<coverImage/>
+	<volNumber>3</volNumber>
+	<bookObservations>Seul le Discours préliminaire (volume 1)  est disponible en mode texte. Nous avons respecté l'orthographe du texte original.</bookObservations>
+	<numerisation person1="marcel" person2="albert" person3="ginette" person4="abel"/>
+	<format doc="Flore_Francoise_discours_preliminaire.doc" pdf="FloreFrancoise_discourspreliminaire.pdf"/>
+	<bookOrder>02</bookOrder>
+</book>
+<book>
+	<id>16</id>
+	<title short="Mémoires de physique et d'histoire naturelle" name="Mémoires de physique et d'histoire naturelle, établis sur les bases de raisonnement indépendantes de toute théorie ; avec l'explication de nouvelles considérations sur la cause générale des dissolutions ; sur la matière de feu ; sur la couleur des corps ; sur la formation des composés ; sur l'origine des minéraux, et sur l'organisation des corps vivans, lus à la première classe de l'Institut national dans ses séances ordinaires, suivis de Discours prononcé à la Société Philomatique le 23 floréal an V" collection="Memoires_physique"/>
+	<typeOfBook id="1"/>
+	<bookDate>1797</bookDate>
+	<author name="J. B." surname="Lamarck"/>
+	<editor>Chez l'Auteur</editor>
+	<placeEditor>Paris</placeEditor>
+	<pagesNumber>412 + 8 p.</pagesNumber>
+	<coverImage/>
+	<volNumber>1</volNumber>
+	<bookObservations>Nous avons respecté l'orthographe du texte original.</bookObservations>
+	<numerisation person1="marcel" person2="albert" person3="ginette" person4=""/>
+	<format doc="Memoires_physique.doc" pdf="Memoires_physique.pdf"/>
+	<bookOrder>09</bookOrder>
+</book>
+
+<book>
+	<id>19</id>
+	<title short="Flore françoise" name="Flore françoise, ou description succinte de toutes les plantes qui croissent naturellement en France, disposée selon une nouvelle méthode d'analyse à laquelle on a joint la citation de leurs vertus les moins équivoques en médecine, et de leur utilité dans les arts"/>
+	<typeOfBook id="1"/>
+	<bookDate>1779</bookDate>
+	<author name="M. le Chevalier" surname="De Lamarck"/>
+	<editor>Imprimerie Royale</editor>
+	<placeEditor>Paris</placeEditor>
+	<pagesNumber/>
+	<coverImage/>
+	<volNumber>3</volNumber>
+	<bookObservations>Seul le Discours préliminaire (volume 1)  est disponible en mode texte. Nous avons respecté l'orthographe du texte original.</bookObservations>
+	<numerisation person1="marcel" person2="albert" person3="ginette" person4="abel"/>
+	<format doc="Flore_Francoise_discours_preliminaire.doc" pdf="FloreFrancoise_discourspreliminaire.pdf"/>
+	<bookOrder>02</bookOrder>
+</book>
+<book>
+	<id>23</id>
+	<title short="Mémoires de physique et d'histoire naturelle" name="Mémoires de physique et d'histoire naturelle, établis sur les bases de raisonnement indépendantes de toute théorie ; avec l'explication de nouvelles considérations sur la cause générale des dissolutions ; sur la matière de feu ; sur la couleur des corps ; sur la formation des composés ; sur l'origine des minéraux, et sur l'organisation des corps vivans, lus à la première classe de l'Institut national dans ses séances ordinaires, suivis de Discours prononcé à la Société Philomatique le 23 floréal an V" collection="Memoires_physique"/>
+	<typeOfBook id="1"/>
+	<bookDate>1797</bookDate>
+	<author name="J. B." surname="Lamarck"/>
+	<editor>Chez l'Auteur</editor>
+	<placeEditor>Paris</placeEditor>
+	<pagesNumber>412 + 8 p.</pagesNumber>
+	<coverImage/>
+	<volNumber>1</volNumber>
+	<bookObservations>Nous avons respecté l'orthographe du texte original.</bookObservations>
+	<numerisation person1="marcel" person2="albert" person3="ginette" person4=""/>
+	<format doc="" pdf="Memoires_physique.pdf"/>
+	<bookOrder>09</bookOrder>
+</book>
+
+<book>
+	<id>26</id>
+	<title short="Flore françoise" name="Flore françoise, ou description succinte de toutes les plantes qui croissent naturellement en France, disposée selon une nouvelle méthode d'analyse à laquelle on a joint la citation de leurs vertus les moins équivoques en médecine, et de leur utilité dans les arts" collection=""/>
+	<typeOfBook id="1"/>
+	<bookDate>1779</bookDate>
+	<author name="M. le Chevalier" surname="De Lamarck"/>
+	<editor>Imprimerie Royale</editor>
+	<placeEditor>Paris</placeEditor>
+	<pagesNumber/>
+	<coverImage/>
+	<volNumber>3</volNumber>
+	<bookObservations>Seul le Discours préliminaire (volume 1)  est disponible en mode texte. Nous avons respecté l'orthographe du texte original.</bookObservations>
+	<numerisation person1="marcel" person2="albert" person3="ginette" person4="abel"/>
+	<format doc="Flore_Francoise_discours_preliminaire.doc" pdf="FloreFrancoise_discourspreliminaire.pdf"/>
+	<bookOrder>02</bookOrder>
+</book>
+<book>
+	<id>29</id>
+	<title short="Mémoires de physique et d'histoire naturelle" name="Mémoires de physique et d'histoire naturelle, établis sur les bases de raisonnement indépendantes de toute théorie ; avec l'explication de nouvelles considérations sur la cause générale des dissolutions ; sur la matière de feu ; sur la couleur des corps ; sur la formation des composés ; sur l'origine des minéraux, et sur l'organisation des corps vivans, lus à la première classe de l'Institut national dans ses séances ordinaires, suivis de Discours prononcé à la Société Philomatique le 23 floréal an V" collection="Memoires_physique"/>
+	<typeOfBook id="1"/>
+	<bookDate>1797</bookDate>
+	<author name="J. B." surname="Lamarck"/>
+	<editor>Chez l'Auteur</editor>
+	<placeEditor>Paris</placeEditor>
+	<pagesNumber>412 + 8 p.</pagesNumber>
+	<coverImage/>
+	<volNumber>1</volNumber>
+	<bookObservations>Nous avons respecté l'orthographe du texte original.</bookObservations>
+	<numerisation person1="marcel" person2="albert" person3="ginette" person4=""/>
+	<format doc="Memoires_physique.doc" pdf="Memoires_physique.pdf"/>
+	<bookOrder>09</bookOrder>
+</book>
+
+<book>
+	<id>30</id>
+	<title short="Flore françoise" name="Flore françoise, ou description succinte de toutes les plantes qui croissent naturellement en France, disposée selon une nouvelle méthode d'analyse à laquelle on a joint la citation de leurs vertus les moins équivoques en médecine, et de leur utilité dans les arts"/>
+	<typeOfBook id="1"/>
+	<bookDate>1779</bookDate>
+	<author name="M. le Chevalier" surname="De Lamarck"/>
+	<editor>Imprimerie Royale</editor>
+	<placeEditor>Paris</placeEditor>
+	<pagesNumber/>
+	<coverImage/>
+	<volNumber>3</volNumber>
+	<bookObservations>Seul le Discours préliminaire (volume 1)  est disponible en mode texte. Nous avons respecté l'orthographe du texte original.</bookObservations>
+	<numerisation person1="marcel" person2="albert" person3="ginette" person4="abel"/>
+	<format doc="Flore_Francoise_discours_preliminaire.doc" pdf="FloreFrancoise_discourspreliminaire.pdf"/>
+	<bookOrder>02</bookOrder>
+</book>
+<book>
+	<id>32</id>
+	<title short="Mémoires de physique et d'histoire naturelle" name="Mémoires de physique et d'histoire naturelle, établis sur les bases de raisonnement indépendantes de toute théorie ; avec l'explication de nouvelles considérations sur la cause générale des dissolutions ; sur la matière de feu ; sur la couleur des corps ; sur la formation des composés ; sur l'origine des minéraux, et sur l'organisation des corps vivans, lus à la première classe de l'Institut national dans ses séances ordinaires, suivis de Discours prononcé à la Société Philomatique le 23 floréal an V" collection="Memoires_physique"/>
+	<typeOfBook id="1"/>
+	<bookDate>1797</bookDate>
+	<author name="J. B." surname="Lamarck"/>
+	<editor>Chez l'Auteur</editor>
+	<placeEditor>Paris</placeEditor>
+	<pagesNumber>412 + 8 p.</pagesNumber>
+	<coverImage/>
+	<volNumber>1</volNumber>
+	<bookObservations>Nous avons respecté l'orthographe du texte original.</bookObservations>
+	<numerisation person1="marcel" person2="albert" person3="ginette" person4=""/>
+	<format doc="Memoires_physique.doc" pdf="Memoires_physique.pdf"/>
+	<bookOrder>09</bookOrder>
+</book>
+
+<book>
+	<id>35</id>
+	<title short="Flore françoise" name="Flore françoise, ou description succinte de toutes les plantes qui croissent naturellement en France, disposée selon une nouvelle méthode d'analyse à laquelle on a joint la citation de leurs vertus les moins équivoques en médecine, et de leur utilité dans les arts"/>
+	<typeOfBook id="1"/>
+	<bookDate>1779</bookDate>
+	<author name="M. le Chevalier" surname="De Lamarck"/>
+	<editor>Imprimerie Royale</editor>
+	<placeEditor>Paris</placeEditor>
+	<pagesNumber/>
+	<coverImage/>
+	<volNumber>3</volNumber>
+	<bookObservations>Seul le Discours préliminaire (volume 1)  est disponible en mode texte. Nous avons respecté l'orthographe du texte original.</bookObservations>
+	<numerisation person1="marcel" person2="albert" person3="ginette" person4="abel"/>
+	<format doc="Flore_Francoise_discours_preliminaire.doc" pdf="FloreFrancoise_discourspreliminaire.pdf"/>
+	<bookOrder>02</bookOrder>
+</book>
+
+</BOOKS>

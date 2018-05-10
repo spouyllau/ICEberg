@@ -1,0 +1,6 @@
+<!ELEMENT TYPESOFBOOK (typeOfBook+)>
+<!ELEMENT typeOfBook (typeId,typeDes,typeDesGb,typeOfBookIcon)>
+<!ELEMENT typeId ANY>
+<!ELEMENT typeDes (#PCDATA)>
+<!ELEMENT typeDesGb (#PCDATA)>
+<!ELEMENT typeOfBookIcon ANY>

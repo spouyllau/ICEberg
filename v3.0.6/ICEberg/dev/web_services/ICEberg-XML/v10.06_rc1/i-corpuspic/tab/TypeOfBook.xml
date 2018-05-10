@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE TYPESOFBOOK SYSTEM "../../ice/dtd/TypeOfBook.dtd">
+
+<TYPESOFBOOK>
+
+<typeOfBook>
+	<typeId>1</typeId>
+	<typeDes>Livres</typeDes>
+	<typeDesGb>Books</typeDesGb>
+	<typeOfBookIcon>images/livre.gif</typeOfBookIcon>
+</typeOfBook>
+
+<typeOfBook>
+	<typeId>2</typeId>
+	<typeDes>Discours</typeDes>
+	<typeDesGb>Discourses</typeDesGb>
+	<typeOfBookIcon>images/discours.gif</typeOfBookIcon>
+</typeOfBook>
+
+<typeOfBook>
+	<typeId>3</typeId>
+	<typeDes>Articles de revue</typeDes>
+	<typeDesGb>Papers</typeDesGb>
+	<typeOfBookIcon>images/journal.gif</typeOfBookIcon>
+</typeOfBook>
+
+<typeOfBook>
+	<typeId>4</typeId>
+	<typeDes>Articles de dictionnaire</typeDes>
+	<typeDesGb>Dictionary articles</typeDesGb>
+	<typeOfBookIcon>images/dico.gif</typeOfBookIcon>
+</typeOfBook>
+
+<typeOfBook>
+	<typeId>5</typeId>
+	<typeDes>Mémoires</typeDes>
+	<typeDesGb>Memoirs</typeDesGb>
+	<typeOfBookIcon>images/memoires.gif</typeOfBookIcon>
+</typeOfBook>
+
+<typeOfBook>
+	<typeId>6</typeId>
+	<typeDes>Manuscrits</typeDes>
+	<typeDesGb>Manuscripts</typeDesGb>
+	<typeOfBookIcon>images/manuscrit.gif</typeOfBookIcon>
+</typeOfBook>
+
+<typeOfBook>
+	<typeId>7</typeId>
+	<typeDes>Correspondance</typeDes>
+	<typeDesGb>Letters</typeDesGb>
+	<typeOfBookIcon>images/corres.gif</typeOfBookIcon>
+</typeOfBook>
+
+</TYPESOFBOOK>

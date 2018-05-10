@@ -1,0 +1,76 @@
+h1 {
+	color: black;
+	font-size: 21px;
+	font-family: arial, helvetica, sans-serif;
+}
+h2 {
+	color: black;
+	font-size: 19px;
+	font-family: arial, helvetica, sans-serif;
+}
+h3 {
+	color: black;
+	font-size: 16px;
+	font-family: arial, helvetica, sans-serif;
+}
+td {
+	color: white;
+	font-size: 15px;
+	font-family: arial, helvetica, sans-serif;
+}
+.tdi {
+	background-color: #8DC476;
+	color: black;
+	font-size: 14px;
+	font-family: arial, helvetica, sans-serif;
+}
+.tdc {
+	background-color: #C7E8C8;
+	color: black;
+	font-size: 14px;
+	font-family: arial, helvetica, sans-serif;
+}
+.tdf {
+	background-color: #88B18A;
+	color: black;
+	font-size: 14px;
+	font-family: arial, helvetica, sans-serif;
+}
+p {
+	color: black;
+	font-size: 14px;
+	font-family: arial, helvetica, sans-serif;
+}
+pre {
+		color: black;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 13.5px;
+		line-height: normal;
+}
+.note {
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 11px;
+		line-height: normal;
+}
+.extrait {
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 14px;
+		line-height: normal;
+}
+.highlight {
+	border-bottom-style: solid;
+	border-bottom-width: 4px;
+	border-bottom-color: #88B18A;
+}
+a:link {
+	color: black;
+	font-size: 14px;
+	font-family: arial, helvetica, sans-serif;
+}
+a:hover {
+	color: black;
+	font-size: 14px;
+	font-family: arial, helvetica, sans-serif;
+}
+
+

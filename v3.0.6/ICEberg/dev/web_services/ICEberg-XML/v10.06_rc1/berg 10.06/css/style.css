@@ -1,0 +1,33 @@
+body {
+	background-color: #CCCCCC;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	margin-left: 0px;
+}
+td {
+	background-color: #EAEAEA;
+}
+.plus {
+	color: #FFFFFF;
+	font-size: 121px;
+}
+input {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+textarea {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+.sql {
+	color: #FF0000;
+}
+h1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 34px;
+	font-style: italic;
+	color: #333333;
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE PAGE SYSTEM "../../../../../ice/dtd/TypeOfBook.dtd">
+
+<PAGE>
+	<pageId>1</pageId>
+	<bookId>1</bookId>
+	<volNumber>1</volNumber>
+	<pageOrder>11</pageOrder>
+	<pageChapter>DISCOURS PRONONCÉ à l'Institut le 26 vendémiaire, an V.</pageChapter>
+	<pageTitle>DISCOURS PRONONCÉ à l'Institut le 26 vendémiaire, an V.</pageTitle>
+	<pageText>LAMARCK  aux membres composant la première classe de l'Institut National. \r\n\r\n  \r\n\r\nCitoyens collégues, \r\n\r\n     J'ai cru depuis long-tems m'appercevoir qu'il y avait erreur dans les bâses de raisonnement employées pour établir la théorie pneumatique.</pageText>
+	<pageNumber>3</pageNumber>
+	<pageNote></pageNote>
+	<pageUrl></pageUrl>
+	<pageImage>003.jpg</pageImage>
+	<figure fig1="004.jpg" fig2="" fig3=""/>
+</PAGE>
