@@ -9,8 +9,8 @@
 //
 // bdd
 $host = "localhost";
-$bdd = "histsciences";
-$pass = "H1S!S,7H";
+$bdd = "BDD";
+$pass = "XXXXXXXXXXX";
 // couleur
 $bodybgcolor = "#ffffff";
 $colorf = "#339933";
